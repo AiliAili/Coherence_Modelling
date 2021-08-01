@@ -19,7 +19,9 @@ For each item, there are
 
 If you have any questions please email aili.shen@unimelb.edu.au
 
-# If you find our paper/code useful, please consider citing:
+# Citing
+
+If you find our paper/code useful, please consider citing:
 
 @article{ailishen2021,<br/>
     &emsp; author = {Shen, Aili and Mistica, Meladel and Salehi, Bahar and Li, Hang and Baldwin, Timothy and Qi, Jianzhong},<br/>
