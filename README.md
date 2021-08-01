@@ -23,17 +23,17 @@ If you have any questions please email aili.shen@unimelb.edu.au
 
 @article{ailishen2021,<br/>
     &emsp; author = {Shen, Aili and Mistica, Meladel and Salehi, Bahar and Li, Hang and Baldwin, Timothy and Qi, Jianzhong},<br/>
-    title = "{Evaluating Document Coherence Modeling}",<br/>
-    journal = {Transactions of the Association for Computational Linguistics},<br/>
-    volume = {9},<br/>
-    pages = {621-640},<br/>
-    year = {2021},<br/>
-    month = {07},<br/>
-    abstract = "{While pretrained language models (LMs) have driven impressive gains over morpho-syntactic and semantic tasks, their ability to model discourse and pragmatic phenomena is less clear. As a step towards a better understanding of their discourse modeling capabilities, we propose a sentence intrusion detection task. We examine the performance of a broad range of pretrained LMs on this detection task for English. Lacking a dataset for the task, we introduce INSteD, a novel intruder sentence detection dataset, containing 170,000+ documents constructed from English Wikipedia and CNN news articles. Our experiments show that pretrained LMs perform impressively in in-domain evaluation, but experience a substantial drop in the cross-domain setting, indicating limited generalization capacity. Further results over a novel linguistic probe dataset show that there is substantial room for improvement, especially in the cross- domain setting.}",<br/>
-    issn = {2307-387X},<br/>
-    doi = {10.1162/tacl_a_00388},<br/>
-    url = {https://doi.org/10.1162/tacl\_a\_00388},<br/>
-    eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00388/1929699/tacl\_a\_00388.pdf},<br/>
+    &emsp; title = "{Evaluating Document Coherence Modeling}",<br/>
+    &emsp; journal = {Transactions of the Association for Computational Linguistics},<br/>
+    &emsp; volume = {9},<br/>
+    &emsp; pages = {621-640},<br/>
+    &emsp; year = {2021},<br/>
+    &emsp; month = {07},<br/>
+    &emsp; abstract = "{While pretrained language models (LMs) have driven impressive gains over morpho-syntactic and semantic tasks, their ability to model discourse and pragmatic phenomena is less clear. As a step towards a better understanding of their discourse modeling capabilities, we propose a sentence intrusion detection task. We examine the performance of a broad range of pretrained LMs on this detection task for English. Lacking a dataset for the task, we introduce INSteD, a novel intruder sentence detection dataset, containing 170,000+ documents constructed from English Wikipedia and CNN news articles. Our experiments show that pretrained LMs perform impressively in in-domain evaluation, but experience a substantial drop in the cross-domain setting, indicating limited generalization capacity. Further results over a novel linguistic probe dataset show that there is substantial room for improvement, especially in the cross- domain setting.}",<br/>
+    &emsp; issn = {2307-387X},<br/>
+    &emsp; doi = {10.1162/tacl_a_00388},<br/>
+    &emsp; url = {https://doi.org/10.1162/tacl\_a\_00388},<br/>
+    &emsp; eprint = {https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl\_a\_00388/1929699/tacl\_a\_00388.pdf},<br/>
 }
 
 
