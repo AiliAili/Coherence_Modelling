@@ -22,7 +22,7 @@ If you have any questions please email aili.shen@unimelb.edu.au
 # If you find our paper/code useful, please consider citing:
 
 @article{ailishen2021,<br/>
-    author = {Shen, Aili and Mistica, Meladel and Salehi, Bahar and Li, Hang and Baldwin, Timothy and Qi, Jianzhong},<br/>
+    &emsp; author = {Shen, Aili and Mistica, Meladel and Salehi, Bahar and Li, Hang and Baldwin, Timothy and Qi, Jianzhong},<br/>
     title = "{Evaluating Document Coherence Modeling}",<br/>
     journal = {Transactions of the Association for Computational Linguistics},<br/>
     volume = {9},<br/>
