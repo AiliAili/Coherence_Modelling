@@ -17,7 +17,7 @@ For each item, there are
 (6) train: the flag to indicate whether the document belongs to the train/test set (1 indicates that it is in the train set; otherwise it is in the test set);
 
 
-# If you have any questions please email aili.shen@unimelb.edu.au
+If you have any questions please email aili.shen@unimelb.edu.au
 
 # If you find our paper/code useful, please consider citing:
 
