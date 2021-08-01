@@ -1,5 +1,6 @@
 # Coherence_Modelling
-official_wikipedia.jsonl and official_cnn.jsonl are the data files for Wikipedia and CNN/Daily news sets, respectively.
+official_wikipedia.jsonl and official_cnn.jsonl are the data files for Wikipedia and CNN/Daily news sets, respectively. Files in the linguistic_prob_data directory are linguistic probe dataset.
+
 
 For each item, there are 
 
