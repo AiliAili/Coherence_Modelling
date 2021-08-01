@@ -2,6 +2,7 @@
 official_wikipedia.jsonl and official_cnn.jsonl are the data files for Wikipedia and CNN/Daily news sets, respectively.
 
 For each item, there are 
+
 (1) file_id: the unique id for the file;
 
 (2) ctx: the original file (untouched version);
